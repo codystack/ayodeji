@@ -1,35 +1,4 @@
 @charset "UTF-8";
-/*
-
-1. Basic
-   - Mixins
-   - Variables
-   - Buttons
-   - Typography
-
-2. Template Section Styles
-   - About
-   - Animation
-   - Brand
-   - Contact
-   - CTA
-   - FAQ
-   - Feature
-   - Footer
-   - Header
-   - Helping
-   - Hero
-   - MeanMenu
-   - Marquee
-   - News
-   - Preloader
-   - Project
-   - Section
-   - Service
-   - Team
-   - Testimonial
-
------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap");
@@ -41,14 +10,14 @@
   --theme: #EE3442;
   --theme2: #EE3442;
   --theme3: #4033ff;
-  --theme4: #1c4b42;
+  --theme4: #000;
   --theme5: #6A52E0;
   --theme6: #DCFD7D;
   --theme7: #BF934C;
   --header: #161616;
   --header2: #1A1438;
   --header3: #0D0D0D;
-  --text: #1c4b42;
+  --text: #000;
   --border: rgba(44, 47, 88, 0.11);
   --bg: #f8f8f8;
   --bg-2: #000;
@@ -4213,7 +4182,8 @@ span {
   border-radius: 30px;
 }
 .breadcrumb-banner .container {
-  max-width: 1765px;
+  /* max-width: 1765px; */
+  max-width: 92.59vw;
 }
 .breadcrumb-banner .breadcrumb-title {
   position: absolute;
@@ -4261,7 +4231,7 @@ span {
 }
 @media (max-width: 1199px) {
   .breadcrumb-banner img {
-    height: 350px;
+    height: 300px;
   }
   .breadcrumb-banner .breadcrumb-title {
     font-size: 42px;
@@ -4270,12 +4240,12 @@ span {
 }
 @media (max-width: 767px) {
   .breadcrumb-banner img {
-    height: 280px;
+    height: 180px;
   }
 }
 @media (max-width: 575px) {
   .breadcrumb-banner img {
-    height: 200px;
+    height: 180px;
   }
   .breadcrumb-banner .breadcrumb-title {
     font-size: 29px;

@@ -26,28 +26,18 @@
                     <div class="container">
                         <ul class="footer-list justify-content-center flex-wrap">
                             <li>
-                                <a href="about.html" class="fz-15 lh-110 d-flex gap-2 align-items-center">
-                                    About Us <i class="fa-solid fa-arrow-right rot180"></i>
+                                <a href="terms" class="fz-15 lh-110 d-flex gap-2 align-items-center">
+                                    Terms of use <i class="fa-solid fa-arrow-right rot180"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="services.html" class="fz-15 lh-110 d-flex gap-2 align-items-center">
-                                    Our services <i class="fa-solid fa-arrow-right rot180"></i>
+                                <a href="privacy" class="fz-15 lh-110 d-flex gap-2 align-items-center">
+                                    Privacy policy <i class="fa-solid fa-arrow-right rot180"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="team.html" class="fz-15 lh-110 d-flex gap-2 align-items-center">
-                                    Team <i class="fa-solid fa-arrow-right rot180"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="about.html" class="fz-15 lh-110 d-flex gap-2 align-items-center">
-                                    Awards <i class="fa-solid fa-arrow-right rot180"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="contact.html" class="fz-15 lh-110 d-flex gap-2 align-items-center">
-                                    Contact <i class="fa-solid fa-arrow-right rot180"></i>
+                                <a href="cookie" class="fz-15 lh-110 d-flex gap-2 align-items-center">
+                                    Cookie policy <i class="fa-solid fa-arrow-right rot180"></i>
                                 </a>
                             </li>
                         </ul>
