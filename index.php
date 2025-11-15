@@ -17,7 +17,7 @@ include "./components/navbar.php";
                     <span class="d-block fw-300">Lead With Confidence.</span>
                 </h2>
                 <p class="mb-4 text-white wow fadeInDown d-none d-md-block" data-wow-delay=".3s">Experience results-driven executive and leadership coaching <br />built to scale your impact and accelerate your success.</p>
-                <a href="https://calendly.com/ayodeleolajiga/free-executive-coaching-strategy-call" target="_blank" class="theme-btn style3 pe-20 wow fadeInDown" data-wow-delay=".4s">
+                <a href="get-started" class="theme-btn style3 pe-20 wow fadeInDown" data-wow-delay=".4s">
                     <i class="fa-solid fa-arrow-right w-36 h-36 bg-white rounded-circle d-center fz-14 theme-clr4"></i>
                     Book a Consultation
                 </a>

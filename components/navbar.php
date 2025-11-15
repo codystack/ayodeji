@@ -39,7 +39,7 @@
                     </div>
 
                     <div class="header-hamburger-inner d-xl-flex align-items-center d-none gap-2">
-                        <a href="https://calendly.com/ayodeleolajiga/free-executive-coaching-strategy-call" target="_blank" class="theme-btn text-nowrap white-blur pe-20">
+                        <a href="get-started" class="theme-btn text-nowrap white-blur pe-20">
                             <i class="fa-solid fa-arrow-right w-36 h-36 bg-white theme4-border rounded-circle d-center fz-14 theme-clr4"></i>
                             Book a consultation
                         </a>

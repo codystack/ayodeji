@@ -6032,7 +6032,7 @@ input.main-search-input::placeholder {
   transition: all 0.5s;
 }
 .choose-items4 .boxes {
-  max-width: 220px;
+  max-width: 90%;
   margin: 0 auto;
 }
 .choose-items4:hover {
@@ -6264,6 +6264,7 @@ input.main-search-input::placeholder {
 }
 .team-items:hover {
   background-color: var(--theme);
+  color: var(--white);
 }
 .team-items:hover .hover-theme1 {
   background-color: var(--theme4);

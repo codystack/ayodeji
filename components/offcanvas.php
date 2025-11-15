@@ -36,9 +36,9 @@
                             <a href="#"><i class="fa-brands fa-instagram"></i></a>
                         </div>
                         <div class="header-button mt-5">
-                            <a href="contact.html" class="theme-btn d-center gap-2 p2-bg text-center">
+                            <a href="get-started" class="theme-btn d-center gap-2 p2-bg text-center">
                                 <span>
-                                    Get A Quote
+                                    Book a consultation
                                     <span class="ani-arrow">
                                         <i class="fa-solid fa-arrow-right-long"></i>
                                     </span>
