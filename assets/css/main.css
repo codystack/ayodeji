@@ -5255,10 +5255,11 @@ input.main-search-input::placeholder {
 }
 
 .download-section {
-  background: url(../img/about/download-bg.png) no-repeat center center;
+  background: url(../img/cta-bg.jpg) no-repeat center center;
   background-size: cover;
   padding: 170px 17px;
-  margin: 11px;
+  /* margin: 11px; */
+  max-width: 92.59vw;
   border-radius: 24px;
 }
 @media (max-width: 991px) {
