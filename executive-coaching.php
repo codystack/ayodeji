@@ -127,7 +127,7 @@ include "./components/navbar-alt.php";
                         <p class="theme-clr4 mb-lg-3 mb-2">A tailored 3- or 6-month executive coaching program built around your goals, pace, and growth ambitions.</p>
                         <a href="get-started" class="theme-btn style1 pe-20">
                             <i class="fa-solid fa-arrow-right w-36 h-36 bg-white rounded-circle d-center fz-14 theme-clr4"></i>
-                            Book a Consultation.
+                            Book a Consultation
                         </a>
                     </div>
                 </div>
