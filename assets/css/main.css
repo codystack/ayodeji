@@ -4193,6 +4193,14 @@ span {
   font-size: 85px;
   color: var(--white);
 }
+.breadcrumb-banner .breadcrumb-title-services {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+  color: var(--white);
+}
 .breadcrumb-banner .boxes {
   max-width: 270px;
   margin-left: auto;
@@ -4238,6 +4246,15 @@ span {
     color: var(--white);
   }
 }
+@media (max-width: 1199px) {
+  .breadcrumb-banner img {
+    height: 300px;
+  }
+  .breadcrumb-banner .breadcrumb-title-services {
+    font-size: 42px;
+    color: var(--white);
+  }
+}
 @media (max-width: 767px) {
   .breadcrumb-banner img {
     height: 180px;
@@ -4248,6 +4265,22 @@ span {
     height: 180px;
   }
   .breadcrumb-banner .breadcrumb-title {
+    font-size: 29px;
+    margin-top: -20px;
+  }
+  .breadcrumb-banner .boxes {
+    width: 100%;
+  }
+  .breadcrumb-banner .boxes .breadcrumb-cont {
+    width: 100%;
+    height: 52px;
+  }
+}
+@media (max-width: 575px) {
+  .breadcrumb-banner img {
+    height: 180px;
+  }
+  .breadcrumb-banner .breadcrumb-title-services {
     font-size: 29px;
     margin-top: -20px;
   }
