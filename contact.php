@@ -8,7 +8,7 @@ include "./components/navbar-alt.php";
             <img src="assets/img/breadcrumb-contact.png" alt="img" class="w-100">
             <h1 class="breadcrumb-title">Contact</h1>
             <div class="boxes">
-                <ul class="breadcrumb-cont d-flex flex-wrap ps-3 align-items-center gap-md-3 gap-2">
+                <ul class="breadcrumb-cont d-flex flex-wrap ps-3 align-items-center gap-md-3 gap-2" style="list-style: none;">
                     <li class="theme-clr4 fw-500">
                         <a href="./" class="fw-600">Home</a>
                     </li>

@@ -23,7 +23,7 @@
                                                 <li><a href="business-coaching">Business Coaching</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="">Shop</a></li>
+                                        <li><a href="shop">Shop</a></li>
                                         <li><a href="contact">Contact</a></li>
                                     </ul>
                                 </nav>
